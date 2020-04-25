@@ -1,0 +1,23 @@
+{
+  "name": "substance-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "fs-extra": "^9.0.0",
+    "mongoose": "^5.9.6",
+    "nodemon": "^2.0.2"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}
